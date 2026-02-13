@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Handyman On Demand",
+  "description": "A professional service platform in Algeria providing skilled workers for plumbing, electrical, construction, and home maintenance under flexible yearly subscriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
